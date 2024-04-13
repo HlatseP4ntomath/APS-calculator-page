@@ -2,6 +2,7 @@ const display = document.querySelector("#display") ;
 const display2 = document.querySelector("#display2") ;
 const button = document.querySelector("#btn")
 const university = document.querySelector("#uni");
+var a = 5;
 
 var Selected_Uni;
 university.addEventListener("change",function(){
